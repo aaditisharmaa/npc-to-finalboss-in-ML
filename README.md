@@ -1,2 +1,3 @@
-# npc-to-finalboss-in-ML
-Starting as an NPC in Machine Learning, grinding my way to final boss level — notes, code, and projects documented along the way.
+#NPCtoFinalBossInML#
+
+Everyone starts as an NPC. This repo documents my grind from ML noob to final boss level: the concepts I've learned, the code I've broken (and fixed), and the projects I've built along the way. No skips, no cheat codes, just consistent levelling up.
